@@ -4,3 +4,6 @@ Pizza
 Rojo
 Azul
 Amarillo
+Papas fritas
+Nuggets
+Quesohamburguesa

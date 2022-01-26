@@ -1,3 +1,6 @@
 Mauricio Rojas Segnini
 Verde
 Pizza
+Rojo
+Azul
+Amarillo

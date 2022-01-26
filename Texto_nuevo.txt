@@ -1,6 +1,4 @@
 Rojo
 Verde
 Azul
-Pizza
-Nuggets
-Quesohamburguesa
+

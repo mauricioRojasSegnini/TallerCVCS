@@ -1,6 +1,6 @@
 Rojo
-Verde
+Morado
 Azul
 Papas fritas
 Nuggets
-Pasta
+Pizza
